@@ -1,0 +1,19 @@
+
+
+  hr{
+    border-style: none;
+    border-top: 7px dotted #17252A;
+    width: 50px;
+
+  }
+  body{
+    background-color: #DEF2F1;
+    font-family: "Do Hyeon", sans-serif;
+    color:#2B7A78;
+  }
+h1{
+  color:#17252A;
+}
+h3{
+  color:#17252A;
+}
